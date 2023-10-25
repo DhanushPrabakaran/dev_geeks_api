@@ -1,24 +1,29 @@
 {
-  "name": "DevGeeks",
+  "name": "devgeeks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node Api/index.ts",
+    "build": "tsc",
+    "serve": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^5.3.1",
-    "@types/express": "^4.17.17",
-    "@types/node": "^20.6.3",
+    "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
-    "express": "^4.18.2",
-    "tsc-init": "^2.1.0",
-    "typescript": "^5.2.2"
+    "tsc-init": "^2.1.0"
   },
   "devDependencies": {
-    "prisma": "^5.3.1"
+    "@types/express": "^4.17.20",
+    "@types/node": "^20.8.8",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "prisma": "^5.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
   }
 }
