@@ -1,0 +1,100 @@
+{
+  "_name": "Dhanush Prabakaran",
+  "_email": "dhanushprabakaran18@gmail.com",
+  "_password":"1234567890",
+  "_userName":"dhan_xh",
+  "_discription":"I am currently doing my B.TECH in coimbatore and learning skills related to web development",
+  "_image":"https://media.licdn.com/dms/image/D5603AQEHbnE4YWpWjQ/profile-displayphoto-shrink_400_400/0/1697995063268?e=1703721600&v=beta&t=ERm2LCivK05j7y2a_mZKtGs4asODu-lRLh7alMGjQnI",
+  "_intrest":["web","web3","blockchain","ml","ai"],
+  "_LinkedInId":"https://www.linkedin.com/in/dhanushprabakar/",
+  "_githubId":"https://github.com/DhanushPrabakaran"
+}
+{
+    "_id": 2,
+    "_email": "sureshprabakaran18@gmail.com",
+    "_name": "Suresh Prabakaran",
+    "_password": "1234567890",
+    "_userName": "sur_xh",
+    "_discription":"I am currently doing my B.TECH in coimbatore and learning skills related to web development",
+    "_image":"https://media.licdn.com/dms/image/D5603AQEHbnE4YWpWjQ/profile-displayphoto-shrink_400_400/0/1697995063268?e=1703721600&v=beta&t=ERm2LCivK05j7y2a_mZKtGs4asODu-lRLh7alMGjQnI",
+    "intrest": ["web","web3"],
+    "_LinkedInId":"https://www.linkedin.com/in/suresh-prabakar-a3",
+    "_githubId":"https://github.com/SureshPrabakaran"
+}
+{
+    "_id": 3,
+    "_email": "rajanprabakaran18@gmail.com",
+    "_name": "Rajan Prabakaran",
+    "_password": "1234567890",
+    "_userName": "raj_xh",
+    "_discription":"I am currently doing my B.TECH in coimbatore and learning skills related to web development",
+    "_image":"https://media.licdn.com/dms/image/D5603AQEHbnE4YWpWjQ/profile-displayphoto-shrink_400_400/0/1697995063268?e=1703721600&v=beta&t=ERm2LCivK05j7y2a_mZKtGs4asODu-lRLh7alMGjQnI",
+    "_intrest": ["web","web3","blockchain","ml","ai"],
+    "_LinkedInId":"https://www.linkedin.com/in/rajan-prabakar-b23",
+    "_githubId":"https://github.com/SureshPrabakaran"
+}
+{
+    "_id":2,
+    "_title":"Why AI is not an existential threat today, but may be tomorrow",
+    "_content":"The rise of Artificial Intelligence (AI) is unprecedented in the annals of technological innovation. From reshaping industries to redefining routine experiences, AI is pervasive. However, a looming question remains – could AI ever evolve to imperil our very existence? To this end, it’s paramount to remember that AI, in its essence, is but a tool. The direction of its evolution remains firmly in human hands. Let’s delve deeper.
+
+The AI Revolution: A Panorama of Change
+
+Let’s begin by appreciating the positive disruptions AI has already manifested:
+
+Self-driving cars: AI-driven autonomous vehicles promise not only to redefine our commuting experience but also to drastically reduce road accidents, offering increased mobility solutions, especially for the disabled.
+
+Medical diagnosis: In healthcare, AI enhances diagnostic precision. For instance, the application of AI in imaging has improved early detection rates in conditions such as cancer.
+
+Customer service: Virtual AI chatbots now offer seamless, 24/7 customer service experiences, streamlining solutions and elevating user satisfaction.
+
+Fraud detection: With fraudulent activities becoming increasingly sophisticated, AI systems adeptly detect and prevent such endeavours, safeguarding both individuals and businesses.
+
+Product recommendations: From online shopping to content streaming, AI-powered recommendation systems curate bespoke experiences, maximising user engagement and commercial success.
+
+Sustainability Solutions: AI contributes to environmental efforts as well. Mobile device optimisation, through AI, leads to reduced energy consumption and thus, diminished carbon footprints. Additionally, AI aids in diminishing food wastage and optimising supply chain, steering us closer to a net zero emission reality.
+
+AI Today: Potential Abounds, But We’re Still in Infancy
+
+Whilst the prospects seem boundless, AI remains an emerging science. Today, AI’s prowess is most noticeable in:
+
+Computer Vision: Whether it’s facial recognition, autonomous driving or medical image analytics, AI’s ability to interpret visual data is revolutionary.
+
+Natural Language Processing (NLP): This facet enables AI to comprehend and emulate human language, powering chatbots, language translation services, and content summarisers.
+
+Machine Learning (ML): The bedrock of AI, ML allows systems to discern patterns, make predictions, and refine its operations based on past data.
+
+Treading Responsibly: The Ethical AI Paradigm
+
+Thankfully, the enthusiasm surrounding AI’s development is accompanied by a burgeoning commitment to ethicality. Globally, entities are enacting guidelines to ensure AI remains a boon, not a bane:
+
+Legislative Moves in the EU: The European Union’s proposed Artificial Intelligence Act seeks to instate robust governance over AI’s deployment, underscoring transparency, fairness, and accountability. Controversially, it might prohibit certain AI applications, including mass surveillance and societal scoring.
+
+US Initiatives: The National Institute of Standards and Technology (NIST) in the US has delineated a comprehensive framework for the cultivation of trustworthy AI. Emphasising elements like reliability, safety, transparency, and privacy, it’s an important stride towards holistic AI development.
+
+Industry Momentum: Internally, the tech sector is taking cognizance of its responsibility. From endorsing ethical AI principles to investing in safety research, the industry is actively shaping AI’s future trajectory.
+
+The Road Ahead: Ensuring AI Remains an Ally
+
+Neglecting the ethical facets of AI can set us on a perilous course. Without judicious control:
+
+Weaponisation: AI can engender autonomous weaponry, capable of large-scale destruction without human intervention.
+
+Invasive Surveillance: An unchecked AI system could potentially monitor individuals indiscriminately, eroding privacy.
+
+Social Manipulation: AI systems, if misused, can control or manipulate behaviours through societal scoring or misinformation.
+
+Economic Disruption: While AI promises efficiency, unfettered automation could displace jobs, leading to socio-economic unrest.
+
+Yet, amidst these challenges, we must remember one truth: AI remains, fundamentally, a human creation. Its evolutionary pathway is ours to dictate. It’s not just about creating smart(er) algorithms but about doing so with wisdom.
+
+To safeguard humanity’s interests, we must:
+
+Institutionalise Ethical Development: AI developers must be held to a rigorous standard of ethicality, ensuring that AI’s benefits outweigh its risks.
+
+Implement Robust Safeguards: Beyond its creation, the deployment of AI must be accompanied by checks and measures that prevent misuse.
+
+In conclusion, the future of AI, radiant with potential, is contingent upon responsible stewardship. By ensuring that AI’s development remains anchored in ethical principles, we can harness its potential while mitigating the risks. It’s a delicate balance, but one that humanity is well poised to maintain. AI’s existential threat is not a foregone conclusion but a challenge – and it’s one we can, and must, rise to meet.",
+    "_published":true,
+    "_authorId":1
+}

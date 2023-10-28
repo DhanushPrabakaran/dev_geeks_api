@@ -9,8 +9,20 @@ datasource db {
 model User {
   id    Int     @id @default(autoincrement())
   email String  @unique
-  name  String?
+  name  String
+  password String
+  userName String @unique
+  discription String?
+  image String
+  intrest String[]
+  LinkedInId String
+  githubId String
+  viewCount Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
   posts Post[]
+  comments comment[]
+  @@unique([id, image])
 }
 
 model Post {
@@ -18,9 +30,24 @@ model Post {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
   title     String
-  content   String?
+  Likes Int @default(0)
+  content   String
   published Boolean  @default(false)
   viewCount Int      @default(0)
-  author    User?    @relation(fields: [authorId], references: [id])
-  authorId  Int?
+  author    User    @relation(fields: [authorId], references: [id])
+  authorId  Int
+  comments comment[]
+
 }
+model comment {
+  id       Int      @id @default(autoincrement())
+  commentContent String
+  post     Post     @relation(fields: [postId], references: [id])
+  postId   Int
+  author   User     @relation(fields: [userId,image], references: [id,image])
+  image String
+  Likes Int @default(0)
+  userId   Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  }
